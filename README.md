@@ -79,7 +79,7 @@ To learn  more about starring repositories, read ["Saving Repositories with Star
 
 #### Following users 
 
-You can follow people on GitHub to receive notifications about their activity and discover projects in their communities. When you follow a user, their public GitHub activity will show up on your dashboard so you can see all the cool things they are working on. 
+will show up on your dashboard so you can see all the cool things they are working on. 
 To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
 
 #### Browsing GitHub Explore 
